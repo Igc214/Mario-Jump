@@ -38,5 +38,5 @@ const loop = setInterval(() => {
 
 }, 10);
 
-
+document.addEventListener('clik', jump);
 document.addEventListener('keydown', jump);
